@@ -4,8 +4,7 @@
   <br>
   🏫studying "systems development" at "Etec de Peruíbe"
   <br>
-  <img height="18px" src="https://emojitool.com/img/facebook/13.1/flag-brazil-687.png"> Brazil - SP
-  #
+  <img height="17px" src="https://emojitool.com/img/facebook/13.1/flag-brazil-687.png"> Brazil - SP
   
 <div>
   <a href="https://github.com/Apolloyy">
@@ -19,6 +18,6 @@
 <a href="https://github.com/Apolloyy"><img align="center" alt="Apollo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Apollo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
 </div>
-  
-#
-  <h2>Obrigado por visitá-lo! :)</h2>
+
+ ##
+  Obrigado por visitá-lo! :)
