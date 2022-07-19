@@ -4,7 +4,7 @@
   <br>
   🏫studying "systems development" at "Etec de Peruíbe"
   <br>
-  <img height="18px" src="https://emojitool.com/img/facebook/13.1/flag-brazil-687.png"> Brazil - SP
+  &#x1F1E7;&#x1F1F7; Brazil - SP
   #
   
 <div>
