@@ -10,7 +10,7 @@
   <a href="https://github.com/Apolloyy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apolloyy&show_icons=true&theme=merko&include_all_commits=true&count_private=false"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apolloyy&layout=compact&langs_count=7&theme=merko">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apolloyy&layout=demo&langs_count=7&theme=merko">
 </div>
 
   </a>Linguagens:
