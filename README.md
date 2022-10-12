@@ -2,15 +2,15 @@
 <h1 style="display: inline_block">Hello There!</h1> 
 
 
-  👦sixteen years old
+  👦Sixteen years old
   <br>
-  🏫studying "systems development" at from "Etec de Peruíbe"
+  🏫Studying "systems development" at from "Etec de Peruíbe"
   <br>
-  <img height="17px" src="https://emojitool.com/img/facebook/13.1/flag-brazil-687.png"> Brazil - SP
+  <img height="16px" src="https://emojitool.com/img/facebook/13.1/flag-brazil-687.png"> Brazil - SP
   <br>
-  <img height="17px" src="https://img.icons8.com/color/48/000000/lightsaber.png"/> Star Wars fan
+  <img height="16px" src="https://img.icons8.com/color/48/000000/lightsaber.png"/> Star Wars fan
   <br>
-  <img height="17px" src="https://img.icons8.com/color/48/000000/valorant.png"/> Valorant Player
+  <img height="16px" src="https://img.icons8.com/color/48/000000/valorant.png"/> Valorant Player
 
 <div>
   <a href="https://github.com/Apolloyy">
@@ -19,7 +19,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apolloyy&layout=compact&langs_count=7&theme=merko">
 </div>
 
-  </a>Linguagens:
+   </a>Languages:
 <div style="display: inline_block">
 <a href="https://github.com/Apolloyy">
 <img align="center" alt="Apollo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,4 +30,5 @@
 </div>
 
  ##
-  Obrigado por visitá-lo! :)
+  Contact:
+  
