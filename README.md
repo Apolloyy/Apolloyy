@@ -1,11 +1,17 @@
- <h1 style="display: inline_block">Olá! Bem-vindo ao meu perfil! </h1>
- 
-  👦fifteen years old
+
+<h1 style="display: inline_block">Hello There!</h1> 
+
+
+  👦sixteen years old
   <br>
   🏫studying "systems development" at from "Etec de Peruíbe"
   <br>
   <img height="17px" src="https://emojitool.com/img/facebook/13.1/flag-brazil-687.png"> Brazil - SP
-  
+  <br>
+  <img height="17px" src="https://img.icons8.com/color/48/000000/lightsaber.png"/> Star Wars fan
+  <br>
+  <img height="17px" src="https://img.icons8.com/color/48/000000/valorant.png"/> Valorant Player
+
 <div>
   <a href="https://github.com/Apolloyy">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Apolloyy&show_icons=true&theme=merko&include_all_commits=true&count_private=false"/>
