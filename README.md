@@ -4,7 +4,7 @@
 
   👦Sixteen years old
   <br>
-  🏫Studying "systems development" at from "Etec de Peruíbe"
+  🏫Studying "systems development" at "Etec de Peruíbe"
   <br>
   <img height="16px" src="https://emojitool.com/img/facebook/13.1/flag-brazil-687.png"> Brazil - SP
   <br>
