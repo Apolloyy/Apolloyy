@@ -10,8 +10,7 @@
   <br>
   <img height="16px" src="https://img.icons8.com/color/48/000000/lightsaber.png"/> Star Wars fan
   <br>
-  <img height="16px" src="https://img.icons8.com/color/48/000000/valorant.png"/> Valorant Player
-
+  
 <div>
   <a href="https://github.com/Apolloyy">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Apolloyy&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
