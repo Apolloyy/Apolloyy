@@ -42,8 +42,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apolloyy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Apolloyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=omni&hide_border=false&order=2" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Apolloyy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Apolloyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=omni&hide_border=true&order=2" height="140" alt="languages graph"  />
 </div>
 
 ###
