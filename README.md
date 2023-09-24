@@ -6,20 +6,16 @@
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
+  <a href="https://instagram.com/lucas_vlrn"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/></a>
 </div>
 
 ###
 
 <h3 align="left">👨‍💻  About Me</h3>
 
-
-
 <p align="left">- 👦Sixteen years old<br>- 🏫Studying "systems development" at "Etec de Peruíbe"<br>- 📚 I'm currently learning javascript</p>
 
 ###
-
 
 <h3 align="left">🛠 Technologies:</h3>
 
@@ -32,6 +28,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
@@ -42,7 +40,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apolloyy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Apolloyy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Apolloyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=omni&hide_border=true&order=2" height="140" alt="languages graph"  />
 </div>
 
