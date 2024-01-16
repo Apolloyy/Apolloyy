@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">👨‍💻  About Me</h3>
+<h3 align="left">👨‍💻  About Me:</h3>
 
 <p align="left">
   - 👦Seventeen years old<br>
-  - 🏫Studying "systems development" at "Etec de Peruíbe"<br>
+  - 🏫Studying "systems development" at "Etec de Peruíbe" (3/3)<br>
   - 📚 I'm currently learning javascript, php and mongodb
 </p>
 
