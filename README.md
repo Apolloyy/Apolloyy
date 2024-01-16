@@ -2,35 +2,25 @@
 
 ###
 
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
-  <a href="https://instagram.com/lucas_vlrn"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/></a>
-</div>
-
-###
-
 <h3 align="left">👨‍💻  About Me</h3>
 
-<p align="left">- 👦Seventeen years old<br>- 🏫Studying "systems development" at "Etec de Peruíbe"<br>- 📚 I'm currently learning javascript</p>
+<p align="left">
+  - 👦Seventeen years old<br>
+  - 🏫Studying "systems development" at "Etec de Peruíbe"<br>
+  - 📚 I'm currently learning javascript, php and mongodb
+</p>
 
 ###
 
 <h3 align="left">🛠 Technologies:</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"/>
-          
-          
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25" alt="php logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25" alt="php logo"  />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25" alt="mongodb logo"/>       
 </div>
 
 ###
@@ -46,10 +36,13 @@
 
 ###
 
-<br clear="both">
+<h3 align="left">💬 Social:</h3>
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Apolloyy.Apolloyy&left_color=darkslateblue&right_color=coral&left_text=views"  />
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo"/>
+  </a>
+  <a href="https://instagram.com/lucas_vlrn">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="instagram logo"/>
+  </a>
 </div>
-
-###
